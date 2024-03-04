@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crave-crunch/static/css/main.0685fc06.css",
-    "main.js": "/crave-crunch/static/js/main.3ba5f5f8.js",
+    "main.js": "/crave-crunch/static/js/main.ca27efdd.js",
     "static/js/703.4d9964f1.chunk.js": "/crave-crunch/static/js/703.4d9964f1.chunk.js",
     "static/js/379.4ed155df.chunk.js": "/crave-crunch/static/js/379.4ed155df.chunk.js",
     "static/js/787.55c32b75.chunk.js": "/crave-crunch/static/js/787.55c32b75.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/loginSvg.svg": "/crave-crunch/static/media/loginSvg.4a649afc2b712775608929cebfe1d76f.svg",
     "index.html": "/crave-crunch/index.html",
     "main.0685fc06.css.map": "/crave-crunch/static/css/main.0685fc06.css.map",
-    "main.3ba5f5f8.js.map": "/crave-crunch/static/js/main.3ba5f5f8.js.map",
+    "main.ca27efdd.js.map": "/crave-crunch/static/js/main.ca27efdd.js.map",
     "703.4d9964f1.chunk.js.map": "/crave-crunch/static/js/703.4d9964f1.chunk.js.map",
     "379.4ed155df.chunk.js.map": "/crave-crunch/static/js/379.4ed155df.chunk.js.map",
     "787.55c32b75.chunk.js.map": "/crave-crunch/static/js/787.55c32b75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0685fc06.css",
-    "static/js/main.3ba5f5f8.js"
+    "static/js/main.ca27efdd.js"
   ]
 }
