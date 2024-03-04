@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.red {
+  background-color: red;
+}
+.font {
+  /* color: red; */
+  font-family: "Work Sans", sans-serif;
+}
+.card .icon {
+  display: none;
+  transition: 1s;
+  cursor: pointer;
+}
+.card:hover .icon {
+  display: block;
+  transition: 1s;
+}
+.bg {
+  background-image: linear-gradient(45deg, #f42b03, #ffbe0b 60%);
+}
+.active {
+  border-bottom: 2px solid white;
+  transition: 1s;
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+  scroll-snap-align: center;
+}
+.sc {
+  scroll-snap-type: mandatory;
+}
+.animate {
+  animation: animated 2s;
+}
+@keyframes animated {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.animateRev {
+  animation: animatedRev 2s;
+}
+.glass {
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0);
+  backdrop-filter: blur(2px);
+}
+
+.glass2 {
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(27, 20, 20, 0);
+  backdrop-filter: blur(2px);
+}
+.spin {
+  animation: sping 4s linear infinite;
+}
+@keyframes sping {
+  to {
+    transform: rotate(360deg);
+  }
+}
