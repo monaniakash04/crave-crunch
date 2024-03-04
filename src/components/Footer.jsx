@@ -64,9 +64,6 @@ const Footer = () => {
                 <li>
                   <NavLink to="/table">TABLE 1</NavLink>
                 </li>
-                <li>
-                  <NavLink to="/invoice">INVOICE</NavLink>
-                </li>
               </ul>
             </div>
           </div>
