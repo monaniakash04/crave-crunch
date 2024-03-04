@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crave-crunch/static/css/main.0685fc06.css",
+    "main.js": "/crave-crunch/static/js/main.3ba5f5f8.js",
+    "static/js/703.4d9964f1.chunk.js": "/crave-crunch/static/js/703.4d9964f1.chunk.js",
+    "static/js/379.4ed155df.chunk.js": "/crave-crunch/static/js/379.4ed155df.chunk.js",
+    "static/js/787.55c32b75.chunk.js": "/crave-crunch/static/js/787.55c32b75.chunk.js",
+    "static/media/pexels-susanne-jutzeler-sujufoto-1233319.jpg": "/crave-crunch/static/media/pexels-susanne-jutzeler-sujufoto-1233319.498c3cb081173dea469c.jpg",
+    "static/media/pexels-sydney-troxell-708587.jpg": "/crave-crunch/static/media/pexels-sydney-troxell-708587.3f0c019e155484069dfe.jpg",
+    "static/media/pexels-jane-doan-1128678.jpg": "/crave-crunch/static/media/pexels-jane-doan-1128678.f4d82d5040b510a13897.jpg",
+    "static/media/order23.gif": "/crave-crunch/static/media/order23.f76492e3fe78e7ca7e10.gif",
+    "static/media/men.png": "/crave-crunch/static/media/men.5e6b4686da4772b2efee.png",
+    "static/media/registerSvg.svg": "/crave-crunch/static/media/registerSvg.57c26feaecdaac6c6a021e4b7585f8fd.svg",
+    "static/media/undraw_empty_cart_co35.svg": "/crave-crunch/static/media/undraw_empty_cart_co35.4f1d46c2a4622b94b65af6df21dd034f.svg",
+    "static/media/loginSvg.svg": "/crave-crunch/static/media/loginSvg.4a649afc2b712775608929cebfe1d76f.svg",
+    "index.html": "/crave-crunch/index.html",
+    "main.0685fc06.css.map": "/crave-crunch/static/css/main.0685fc06.css.map",
+    "main.3ba5f5f8.js.map": "/crave-crunch/static/js/main.3ba5f5f8.js.map",
+    "703.4d9964f1.chunk.js.map": "/crave-crunch/static/js/703.4d9964f1.chunk.js.map",
+    "379.4ed155df.chunk.js.map": "/crave-crunch/static/js/379.4ed155df.chunk.js.map",
+    "787.55c32b75.chunk.js.map": "/crave-crunch/static/js/787.55c32b75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0685fc06.css",
+    "static/js/main.3ba5f5f8.js"
+  ]
+}
