@@ -1,0 +1,17 @@
+{
+  "admin": [
+    { "id": 1, "username": "akash_3", "password": "akash123", "role": "admin" },
+    {
+      "id": 2,
+      "username": "harshil_28",
+      "password": "harshil123",
+      "role": "editor"
+    },
+    {
+      "id": 3,
+      "username": "urmit_15",
+      "password": "urmit123",
+      "role": "editor"
+    }
+  ]
+}
