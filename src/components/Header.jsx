@@ -44,7 +44,9 @@ const Header = ({ cartItemTotal, table }) => {
             <li>
               <NavLink to="/table">TABLE {table}</NavLink>
             </li>
-            {/* <li><NavLink to="/invoice">INVOICE</NavLink></li> */}
+            <li>
+              <NavLink to="/admin">ADMIN</NavLink>
+            </li>
             <li>
               <Link to="/account">
                 <div className="w-[40px] h-[40px] rounded-[100%] bg-black">
@@ -94,7 +96,9 @@ const Header = ({ cartItemTotal, table }) => {
           <li>
             <NavLink to="/table">TABLE 1</NavLink>
           </li>
-          {/* <li><NavLink to="/invoice">INVOICE</NavLink></li> */}
+          <li>
+            <NavLink to="/admin">ADMIN</NavLink>
+          </li>
           <li>
             <Link to="/account">
               <div className="w-[40px] mx-auto h-[40px] rounded-[100%] bg-black">
